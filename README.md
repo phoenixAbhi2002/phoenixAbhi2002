@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Abhijeet Sahoo</h1>
-<h3 align="center">I am a Computer Science and Technology Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , from India.</h3>
+<h3 align="center">I am pursuing Computer Science and Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , from Dayananda Sagar Univeristy.</h3>
 
 
 <p align="center"><img alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47pe2pbokmemd6fixp0t5xxi42xz4dzq2nkpunmcb9&rid=200.webp&ct=g">
