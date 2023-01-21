@@ -35,9 +35,9 @@
 
 ### 🔥 &nbsp; <u>My Stats :</u>
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixabhi2002&show_icons=true&locale=en&layout=compact" alt="phoenixabhi2002" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixabhi2002&show_icons=true&theme=radical&locale=en&layout=compact" alt="phoenixabhi2002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixabhi2002&show_icons=true&locale=en" alt="phoenixabhi2002" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixabhi2002&show_icons=true&theme=radical&locale=en" alt="phoenixabhi2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixabhi2002&" alt="phoenixabhi2002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixabhi2002&show_icons=true&theme=radical" alt="phoenixabhi2002" /></p>
 </div>
