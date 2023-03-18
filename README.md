@@ -1,8 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Abhijeet Sahoo</h1>
 <h3 align="center">I am pursuing Computer Science and Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> , from Dayananda Sagar Univeristy.</h3>
 
 
-<p align="center"><img alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixabhi2002&label=Profile%20views&color=0e75b6&style=flat" alt="phoenixabhi2002" /> </p>
 
